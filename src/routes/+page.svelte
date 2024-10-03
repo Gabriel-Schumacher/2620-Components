@@ -1,10 +1,5 @@
 <!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
 
-<nav>
-	<ul class="m-4">
-		<li><a href="/Component1/">Component1</a></li>
-	</ul>
-</nav>
 
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-5">
